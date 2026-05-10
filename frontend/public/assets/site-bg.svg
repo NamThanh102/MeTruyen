@@ -1,0 +1,25 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="#0B0F14"/>
+  <g opacity="0.22" filter="url(#blurA)">
+    <circle cx="1520" cy="220" r="300" fill="#E11D48"/>
+  </g>
+  <g opacity="0.16" filter="url(#blurB)">
+    <circle cx="360" cy="860" r="360" fill="#0891B2"/>
+  </g>
+  <g opacity="0.10">
+    <path d="M0 160C250 140 430 260 680 220C930 180 1120 60 1380 90C1600 115 1740 180 1920 150V1080H0V160Z" fill="#111827"/>
+    <path d="M0 300C220 340 420 280 640 330C860 380 1080 500 1310 470C1560 440 1710 320 1920 360V1080H0V300Z" fill="#0F172A"/>
+  </g>
+  <defs>
+    <filter id="blurA" x="1020" y="-280" width="1000" height="1000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="blurB" x="-200" y="300" width="1120" height="1120" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="120" result="effect1_foregroundBlur"/>
+    </filter>
+  </defs>
+</svg>
