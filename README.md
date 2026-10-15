@@ -1,4 +1,4 @@
-# MeTruyen - Nền Tảng Đọc & Xuất Bản Truyện Tranh Trực Tuyến
+# MeTruyen - Nền Tảng Đọc Truyện Tranh Trực Tuyến
 
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-61dafb.svg)](https://react.dev/)
